@@ -40,3 +40,12 @@ print(result)
 ## Citation
 
 If you use this code, please cite the manuscript.
+
+
+## Data
+
+This repository contains code only. Datasets are not redistributed due to licensing restrictions:
+
+- METR-LA: https://github.com/zhenggy92/STL
+- PEMS-BAY: https://github.com/ieee-dsp/pems-bay
+- Synthetic Portland network: generated using parameters in Section 3.1 of the manuscript.
